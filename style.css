@@ -1,9 +1,12 @@
 .container {
   width: 575px;
-  height: 825px;
-
-  background-color: #5d7c62;
-  padding-left: 30px;
+    height: 525px;
+  
+    background-color: hsl(130, 14%, 43%);
+    padding-left: 30px;
+    position: relative;
+    text-align: center;
+    margin: auto;
 }
 
 #height,
